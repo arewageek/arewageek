@@ -53,6 +53,7 @@
 #### 🗃 Package, dependency, and environment management
 
 <p>
+        ![Static Badge](https://img.shields.io/badge/git)
     ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
     ![Bun Badge](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge)
     ![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge)
@@ -81,6 +82,6 @@
 
 ![Arewa Geek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arewageek&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arewa&layout=compact&langs_count=8&theme=tokyonight)
 
 ![Visitors](https://komarev.com/ghpvc/?username=arewageek&color=blue&style=flat&label=Visitors)
