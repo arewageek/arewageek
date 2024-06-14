@@ -22,8 +22,6 @@
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 
-<br /><br />
-
 ### 🎯 Skills
 
 #### ⌨️ Programming languages
@@ -33,10 +31,7 @@
 ![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 
-<br /><br />
-
 #### 🎛 Frameworks and runtime environments
-
 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
@@ -58,8 +53,6 @@
 ![Composer Badge](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=for-the-badge)
 ![pipx Badge](https://img.shields.io/badge/pipx-2CFFAA?logo=pipx&logoColor=000&style=for-the-badge)
 
-<br /><br />
-
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
 
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
@@ -69,7 +62,6 @@
 ![Mocha Badge](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge)
 ![Ethers Badge](https://img.shields.io/badge/Ethers-2535A0?logo=ethers&logoColor=fff&style=for-the-badge)
 ![Web3.js Badge](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
-<br /><br />
 
 ### 🔎 Some stats
 
