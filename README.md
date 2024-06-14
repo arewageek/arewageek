@@ -69,6 +69,6 @@
 
 ![Arewa Geek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arewa&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arewageek&layout=compact&langs_count=8&theme=tokyonight)
 
 ![Visitors](https://komarev.com/ghpvc/?username=arewageek&color=blue&style=flat&label=Visitors)
