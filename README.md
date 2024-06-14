@@ -1,31 +1,27 @@
-### Hi there 👋 I'm Pascal
+### Hi there 👋 I'm Arewa Geek
 
 <p> 
-    <a href="https://linktr.ee/pcaversaccio" target="_blank"><img alt="Linktree"
-        src="https://img.shields.io/badge/linktree-2F3C51?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<!--     <a href="https://linktr.ee/pcaversaccio" target="_blank"><img alt="Linktree"
+        src="https://img.shields.io/badge/linktree-2F3C51?style=for-the-badge&logo=linktree&logoColor=white"/></a> -->
 </p>
 
 ### About me 💯
 
 - 🔭 I'm currently working on **what's next**.
-- 🔧 My day (and sometimes night) job is to help safeguard the Ethereum ecosystem.
-- ➕ Previously, I founded [DAITA Technologies](https://daita.tech), a Swiss-based startup specialising in transforming raw data into AI-ready data sets at scale, and [Alethena](https://web.archive.org/web/20190519204013/https://www.alethena.com), a company pioneering Ethereum-based tokenised shares and their trading via an automated market maker in Switzerland.
-- 🎓 I hold a Master's degree in [Quantitative Finance](https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/quantitative-finance.html) from the Swiss Federal Institute of Technology Zurich (ETH Zurich).
-- ❤️ Generally, I'm truly passionate about **Machine/Deep Learning, Computer Vision, Ethereum Smart Contracts, Bitcoin, and OSS Engineering**.
-- 📫 How to reach me: [pascal.caversaccio@hotmail.ch](mailto:pascal.caversaccio@hotmail.ch).
+- 🔧 My day (and sometimes night) job is to Buidl web2/web3 applications.
+- 🎓 I'm in my final year studying **Electrical ELectronic Engineering** at **The Federal University of Technology, Minna**.
+- ❤️ Generally, I'm truly passionate about **Blockchain Technologies, Smart Contract, Bitcoin L2 Solutions, and OSS Projects**.
+- 📫 How to reach me: [arewageek@gmail.com](mailto:arewageek@gmail.com).
 - 🌱 I'm currently learning not to go insane – broadly speaking.
-- 💬 Ask me about anything – maybe I can help you; most likely not.
+- 💬 Ask me about anything – maybe I can help you; maybe not.
 - ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
 ### 💻 OSes
 
 <p> 
-    <a href="https://www.debian.org" target="_blank"><img alt="Debian"
-        src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
-    <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
-        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
-    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
-        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+    ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
+    ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)
+    ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 </p>
 
 ### 🎯 Skills
@@ -33,32 +29,23 @@
 #### ⌨️ Programming languages
 
 <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
-        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
-    <a href="https://www.python.org" target="_blank"><img alt="Python"
-        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
-        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
-    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+    ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+    ![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)
+    ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 </p>
-
-- [🐍Vyper](https://vyper.readthedocs.io)
 
 #### 🎛 Frameworks and runtime environments
 
 <p>
-    <a href="https://angular.io" target="_blank"><img alt="Angular"
-        src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
-    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-    <a href="https://pytorch.org" target="_blank"><img alt="PyTorch"
-        src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
-    <a href="https://www.tensorflow.org" target="_blank"><img alt="TensorFlow"
-        src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+    ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+    ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+    ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+    ![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)
+    ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
+    ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
 </p>
 
-- [DappTools](https://github.com/dapphub/dapptools)
 - [Foundry](https://github.com/foundry-rs/foundry)
 - [Hardhat](https://hardhat.org)
 - [Truffle Suite](https://trufflesuite.com)
@@ -66,85 +53,32 @@
 #### 🗃 Package, dependency, and environment management
 
 <p>
-    <a href="https://docs.conda.io" target="_blank"><img alt="Conda"
-        src="https://img.shields.io/badge/conda-342B029?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
-    <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
-        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-    <a href="https://pnpm.io" target="_blank"><img alt="pnpm"
-        src="https://img.shields.io/badge/pnpm-%234a4a4a?style=for-the-badge&logo=pnpm&logoColor=f69220"/></a>
-    <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
-        src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
+    ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
+    ![Bun Badge](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge)
+    ![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge)
+    ![Composer Badge](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=for-the-badge)
+    ![pipx Badge](https://img.shields.io/badge/pipx-2CFFAA?logo=pipx&logoColor=000&style=for-the-badge)
 </p>
 
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
 
 <p>
-    <a href="https://aws.amazon.com" target="_blank"><img alt="AWS"
-        src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-    <a href="https://www.cloudflare.com" target="_blank"><img alt="Cloudflare"
-        src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
-    <a href="https://git-scm.com" target="_blank"><img alt="Git"
-        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-    <a href="https://www.postman.com" target="_blank"><img alt="Postman"
-        src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
+    ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
+    ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge)
+    ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
+    ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
+    ![Mocha Badge](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge)
+    ![Ethers Badge](https://img.shields.io/badge/Ethers-2535A0?logo=ethers&logoColor=fff&style=for-the-badge)
+    ![Web3.js Badge](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
 </p>
 
-<p>
-    <a href="https://numpy.org" target="_blank"><img alt="NumPy"
-        src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-    <a href="https://opencv.org" target="_blank"><img alt="OpenCV"
-        src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
-    <a href="https://scipy.org" target="_blank"><img alt="SciPy"
-        src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
-</p>
-
-- [ethers.js](https://docs.ethers.io)
-- [web3.js](https://web3js.readthedocs.io)
-
-### 📦 `npm` packages
-
-- [xdeployer](https://www.npmjs.com/package/xdeployer) – A [Hardhat](https://hardhat.org) plugin to deploy your smart contracts across multiple Ethereum Virtual Machine (EVM) chains with the same deterministic address.
-
-### 📚 Smart contract libraries
-
-- [🐍 snekmate](https://github.com/pcaversaccio/snekmate) – State-of-the-art, highly opinionated, hyper-optimised, and secure 🐍[Vyper](https://github.com/vyperlang/vyper) smart contract building blocks.
-
-### 😎 Miscellaneous
-
-- [⚔️ A Historical Collection of Reentrancy Attacks](https://github.com/pcaversaccio/reentrancy-attacks) – A chronological and (hopefully) complete list of reentrancy attacks to date.
-- [Batch Distributor](https://github.com/pcaversaccio/batch-distributor) – Helper smart contract for batch sending both native and ERC-20 tokens.
-- [`CREATE2` Deployer](https://github.com/pcaversaccio/create2deployer) – Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
-- [`CreateX` – A Trustless, Universal Contract Deployer](https://github.com/pcaversaccio/createx) – Factory smart contract to make easier and safer usage of the `CREATE` and `CREATE2` EVM opcodes as well as of `CREATE3`-based (i.e. without an initcode factor) contract creations.
-- [Fully-Fledged Hardhat Project Template](https://github.com/pcaversaccio/hardhat-project-template-ts) – A fully-fledged Hardhat project template based on TypeScript.
-- [🕵️‍♂️ TORN Detector](https://github.com/pcaversaccio/torn-detector) – Detect if a contract has been deployed in the latest (or predefined) block from an address that was previously funded through [Tornado.Cash](https://github.com/tornadocash).
-- 📊 Dune Dashboards:
-  - [Smart Contract Deployment Statistics](https://dune.com/pcaversaccio/smart-contract-deployment-statistics)
-  - [Minimal Proxies](https://dune.com/pcaversaccio/minimal-proxies)
-  - [Selfdestruct](https://dune.com/pcaversaccio/selfdestruct)
-  - [🐍Vyper Deployment Statistics](https://dune.com/pcaversaccio/vyper-deployment-statistics)
-- 📝 Articles:
-  - [Understanding Ethereum ERC-20 Meta-Transactions](https://betterprogramming.pub/ethereum-erc-20-meta-transactions-4cacbb3630ee)
-  - [How 🐍Vyper Compiles Into Bytecode](https://hackmd.io/@pcaversaccio/how-vyper-compiles-into-bytecode)
-  - [The Ethereum Cypherpunk Manifesto](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto)
-- 🧠 EIPs:
-  - [EIP-6789: Rename gas to mana](https://eips.ethereum.org/EIPS/eip-6789)
-  - [EIP-7266: Remove `BLAKE2` compression precompile](https://eips.ethereum.org/EIPS/eip-7266)
-
-### 💰 Funding
-
-<p>
-    <a href="https://bitcoin.org" target="_blank"><img alt="Bitcoin"
-        src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
-    <a href="https://ethereum.org" target="_blank"><img alt="Ethereum"
-        src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
-    <a href="https://stripe.com" target="_blank"><img alt="Stripe"
-        src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/></a>
-</p>
 
 ### 🔎 Some stats
 
-![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcaversaccio&count_private=true&show_icons=true&theme=tokyonight)
+[![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=tokyo-night)](#)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=8&theme=tokyonight)
+![Arewa Geek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=tokyonight)
 
-![Visitors](https://komarev.com/ghpvc/?username=pcaversaccio&color=blue&style=flat&label=Visitors)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arewageek&layout=compact&langs_count=8&theme=tokyonight)
+
+![Visitors](https://komarev.com/ghpvc/?username=arewageek&color=blue&style=flat&label=Visitors)
