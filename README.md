@@ -53,14 +53,13 @@
 #### 🗃 Package, dependency, and environment management
 
 <p>
-        ![Static Badge](https://img.shields.io/badge/git)
+        <img alt="Static Badge" src="https://img.shields.io/badge/git">
     ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
     ![Bun Badge](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge)
     ![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge)
     ![Composer Badge](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=for-the-badge)
     ![pipx Badge](https://img.shields.io/badge/pipx-2CFFAA?logo=pipx&logoColor=000&style=for-the-badge)
 
-        ![Adidas Badge](https://img.shields.io/badge/Adidas-000?logo=adidas&logoColor=fff&style=for-the-badge)
 </p>
 
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
