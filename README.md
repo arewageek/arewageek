@@ -58,6 +58,8 @@
     ![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge)
     ![Composer Badge](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=for-the-badge)
     ![pipx Badge](https://img.shields.io/badge/pipx-2CFFAA?logo=pipx&logoColor=000&style=for-the-badge)
+
+        ![Adidas Badge](https://img.shields.io/badge/Adidas-000?logo=adidas&logoColor=fff&style=for-the-badge)
 </p>
 
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
