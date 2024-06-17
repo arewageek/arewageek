@@ -9,7 +9,6 @@
 
 - 🔭 I'm currently working on **what's next**.
 - 🔧 My day (and sometimes night) job is to **Buidl web2 && web3 applications.**
-- 🎓 Currently studying Electrical Electronic Engineering at **The Federal University of Technology, Minna**.
 - ❤️ I'm really passionate about **Blockchain Technologies, Smart Contract, Bitcoin L2 Solutions, and OSS Projects**.
 - 🌱 I'm currently learning not to go insane – broadly speaking.
 - 📫 How to reach me: **[arewageek@gmail.com](mailto:arewageek@gmail.com).**
