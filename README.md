@@ -42,9 +42,9 @@
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
 
-- [Foundry](https://github.com/foundry-rs/foundry)
-- [Hardhat](https://hardhat.org)
-- [Truffle Suite](https://trufflesuite.com)
+- **[Foundry](https://github.com/foundry-rs/foundry)**
+- **[Hardhat](https://hardhat.org)**
+- **[Truffle Suite](https://trufflesuite.com)**
 
 #### 🗃 Package, dependency, and environment management
 
@@ -77,6 +77,15 @@
 ![Shopify Badge](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=for-the-badge)
 ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge)
 ![Joomla Badge](https://img.shields.io/badge/Joomla-5091CD?logo=joomla&logoColor=fff&style=for-the-badge)
+
+#### Chains
+
+![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)
+![Binance Badge](https://img.shields.io/badge/Binance-F0B90B?logo=binance&logoColor=fff&style=for-the-badge)
+![Polygon Badge](https://img.shields.io/badge/Polygon-7B3FE4?logo=polygon&logoColor=fff&style=for-the-badge)
+![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge)
+![TON Badge](https://img.shields.io/badge/TON-0098EA?logo=ton&logoColor=fff&style=for-the-badge)
+![Algorand Badge](https://img.shields.io/badge/Algorand-000?logo=algorand&logoColor=fff&style=for-the-badge)
 
 
 ### 🔎 Some stats
