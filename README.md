@@ -15,12 +15,6 @@
 - 💬 Ask me about anything – maybe I can help you; maybe not.
 - ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
-### 💻 OSes
-
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)
-![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)
-
 ### 🎯 Skills
 
 #### ⌨️ Programming languages
