@@ -8,11 +8,11 @@
 ### About me 💯
 
 - 🔭 I'm currently working on **what's next**.
-- 🔧 My day (and sometimes night) job is to Buidl web2/web3 applications.
-- 🎓 I'm in my final year studying **Electrical ELectronic Engineering** at **The Federal University of Technology, Minna**.
-- ❤️ Generally, I'm truly passionate about **Blockchain Technologies, Smart Contract, Bitcoin L2 Solutions, and OSS Projects**.
-- 📫 How to reach me: [arewageek@gmail.com](mailto:arewageek@gmail.com).
+- 🔧 My day (and sometimes night) job is to **Buidl web2 && web3 applications.**
+- 🎓 I'm in my final year studying Electrical Electronic Engineering at **The Federal University of Technology, Minna**.
+- ❤️ I'm really passionate about **Blockchain Technologies, Smart Contract, Bitcoin L2 Solutions, and OSS Projects**.
 - 🌱 I'm currently learning not to go insane – broadly speaking.
+- 📫 How to reach me: [arewageek@gmail.com](mailto:arewageek@gmail.com).
 - 💬 Ask me about anything – maybe I can help you; maybe not.
 - ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
