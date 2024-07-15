@@ -82,6 +82,8 @@
 
 ### 🔎 Some stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=arewageek&theme=nightowl&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 [![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=tokyo-night)](#)
 
 ![Arewa Geek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=tokyonight)
