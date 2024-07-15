@@ -88,9 +88,9 @@
 
 ![Arewa Geek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=tokyo-night)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arewageek&layout=compact&langs_count=8&theme=tokyo-night)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arewageek&layout=compact&langs_count=8&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Arewa Geek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitors](https://komarev.com/ghpvc/?username=arewageek&color=blue&style=flat&label=Visitors)
 [![wakatime](https://wakatime.com/badge/user/4af4fa51-e674-4708-836c-ccd8bc04aef2.svg)](https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2)
