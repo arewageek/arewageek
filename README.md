@@ -33,10 +33,10 @@
 
 #### 🎛 Frameworks and runtime environments
 
-[![BluePrint Badge]([https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge](https://img.shields.io/badge/Blueprint-137CBD.svg?style=for-the-badge&logo=Blueprint&logoColor=white))](https://img.shields.io/badge/Blueprint-137CBD.svg?style=for-the-badge&logo=Blueprint&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![BluePrint Badge](https://img.shields.io/badge/Blueprint-137CBD.svg?style=for-the-badge&logo=Blueprint&logoColor=white)
 ![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
 
