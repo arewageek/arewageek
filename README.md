@@ -85,9 +85,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=arewageek&theme=cobalt)](https://git.io/streak-stats)
 
 ![Arewa Geek's GitHub stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=cobalt)
-[![Arewa Geek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arewageek)](https://github.com/arewageek/github-readme-stats)
+[![Arewa Geek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arewageek)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=tokyo-night)](#)
+[![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=cobalt)](#)
 
 ![Arewa Geek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=tokyonight)
 
