@@ -84,13 +84,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arewageek&theme=whatsapp-dark2)](https://git.io/streak-stats)
 
-![Arewa Geek's GitHub stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=whatsapp-dark2)
-[![Arewa Geek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arewageek)](https://github.com/anuraghazra/github-readme-stats)
+[![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=tokyo-night)](#)
 
-[![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=whatsapp-dark2)](#)
+![Arewa Geek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=tokyo-night)
 
-![Arewa Geek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=whatsapp-dark2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arewageek&layout=compact&langs_count=8&theme=tokyo-night)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arewageek&layout=compact&langs_count=8&theme=whatsapp-dark2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ![Visitors](https://komarev.com/ghpvc/?username=arewageek&color=blue&style=flat&label=Visitors)
+[![wakatime](https://wakatime.com/badge/user/4af4fa51-e674-4708-836c-ccd8bc04aef2.svg)](https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2)
