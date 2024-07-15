@@ -92,5 +92,5 @@
 
 [![Arewa Geek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitors](https://komarev.com/ghpvc/?username=arewageek&color=blue&style=flat&label=Visitors)
-[![wakatime](https://wakatime.com/badge/user/4af4fa51-e674-4708-836c-ccd8bc04aef2.svg)](https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2)
+![Visitors](https://komarev.com/ghpvc/?username=arewageek&color=blue&style=flat&label=Visitors&theme=nightowl)
+[![wakatime](https://wakatime.com/badge/user/4af4fa51-e674-4708-836c-ccd8bc04aef2.svg)](https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2?theme=nightowl)
