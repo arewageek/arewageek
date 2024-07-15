@@ -72,6 +72,7 @@
 
 #### Chains
 
+![TON](https://img.shields.io/badge/TON-0098EA.svg?style=for-the-badge&logo=TON&logoColor=white)
 ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)
 ![Binance Badge](https://img.shields.io/badge/Binance-F0B90B?logo=binance&logoColor=fff&style=for-the-badge)
 ![Polygon Badge](https://img.shields.io/badge/Polygon-7B3FE4?logo=polygon&logoColor=fff&style=for-the-badge)
