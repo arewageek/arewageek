@@ -86,11 +86,6 @@
 
 [![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=nightowl)](#)
 
-![Arewa Geek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewageek&count_private=true&show_icons=true&theme=nightowl)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arewageek&layout=compact&langs_count=8&theme=nightowl)
-
 [![Arewa Geek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitors](https://komarev.com/ghpvc/?username=arewageek&color=blue&style=flat&label=Visitors&theme=nightowl)
 [![wakatime](https://wakatime.com/badge/user/4af4fa51-e674-4708-836c-ccd8bc04aef2.svg)](https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2?theme=nightowl)
