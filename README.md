@@ -42,9 +42,10 @@
 ### 🔎 Some stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arewageek&theme=whatsapp-dark2)](https://git.io/streak-stats)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=arewageek&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
 
 [![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=nightowl)](#)
 
-[![Arewa Geek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Arewa Geek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![wakatime](https://wakatime.com/badge/user/4af4fa51-e674-4708-836c-ccd8bc04aef2.svg)](https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2?theme=nightowl)
