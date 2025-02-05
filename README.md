@@ -42,7 +42,11 @@
 ### 🔎 Some stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arewageek&theme=whatsapp-dark2)](https://git.io/streak-stats)
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=arewageek&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arewageek&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arewageek&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
+</div>
 
 [![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=nightowl)](#)
 
