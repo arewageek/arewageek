@@ -8,11 +8,11 @@
 ### About me 💯
 
 - 🔭 I'm currently working on **what's next**.
-- 🔧 My day (and sometimes night) job is to **Buidl web2 && web3 applications.**
-- 🎓 Studied Electrical Electronic Engineering at **The Federal University of Technology, Minna**.
+- 🔧 My day (and sometimes night) job is to **Buidl softwares && decentralized applications.**
+- 🎓 Studied Electrical Electronics Engineering at **The Federal University of Technology, Minna**.
 - ❤️ I'm really passionate about **Blockchain Technologies, Decentraized Applications, and OSS Projects**.
 - 🌱 I'm currently learning not to go insane – broadly speaking.
-- 📫 How to reach me: **[arewageek@gmail.com](mailto:arewageek@gmail.com).**
+- 📫 How to reach me: **[arewageek@gmail.com](mailto:arewageek@gmail.com), [Twitter](https://x.com/arewaofweb3).**
 - 💬 Ask me about anything – maybe I can help you; maybe not.
 - ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
@@ -28,9 +28,10 @@
 
 #### 🎛 Frameworks and runtime environments
 
-![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![Nest.js Badge](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
 
 #### Chains
