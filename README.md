@@ -47,17 +47,30 @@
 ![TON](https://img.shields.io/badge/TON-0098EA.svg?style=for-the-badge&logo=TON&logoColor=white)
 
 
-### 🔎 Some stats
+## GitHub Statistics and My WakaTime Insights ⏳
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arewageek&theme=whatsapp-dark2)](https://git.io/streak-stats)
+<table>
+  <tbody>
+     <tr>
+	<td>
+                <img align="center" width="100%" src="https://streak-stats.demolab.com?user=arewageek&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Arewa Geek's Github Streaks" />
+	</td>
+        <td>
+                <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=arewageek&hide_border=true&count_private=true&show_icons=true&hide_title=false&theme=nightowl&rank_icon=github&include_all_commits=true" alt="Arewa Geek's Github Stats" />
+	</td>
+      </tr>
+       <tr>
+	<td>
+                <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&hide_border=true&theme=nightowl" alt="Arewa Geek's wakatime stats" /> 
+	</td>
+        <td>
+                <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arewageek&hide_border=true&theme=nightowl&v=1" /> 
+	</td>
+      </tr>
 
-<div style="display: flex; justify-content: space-around">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arewageek&theme=dark&exclude=html,CSS,Jupyter%20Notebook&v=1" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arewageek&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-</div>
+  </tbody>
+<table>
 
 [![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=nightowl)](#)
-
-[![Arewa Geek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![wakatime](https://wakatime.com/badge/user/4af4fa51-e674-4708-836c-ccd8bc04aef2.svg)](https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2?theme=nightowl)
