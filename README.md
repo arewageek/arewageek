@@ -1,9 +1,4 @@
-### Hi there 👋 I'm Arewa Geek
-
-<p> 
-<!--     <a href="https://linktr.ee/pcaversaccio" target="_blank"><img alt="Linktree"
-        src="https://img.shields.io/badge/linktree-2F3C51?style=for-the-badge&logo=linktree&logoColor=white"/></a> -->
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73DE3&width=700&height=70&lines=Hey%2C+I'm+Arewa+Geek;Software+%26%26+Blockchain+Engr.;I+Buidl+EVM+Contracts+%26+dApps;4%2B+Years+of+Coding+Experience;Open+to+learning+new+stuff" alt="Typing SVG" /></a>
 
 ### About me 💯
 
