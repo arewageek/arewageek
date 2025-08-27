@@ -25,7 +25,7 @@
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![Nest.js Badge](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
+![Hono.js](https://img.shields.io/badge/Hono-E36002.svg?style=for-the-badge&logo=Hono&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
 
@@ -40,7 +40,7 @@
 
 ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)
 ![TON](https://img.shields.io/badge/TON-0098EA.svg?style=for-the-badge&logo=TON&logoColor=white)
-
+![Solana](https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white)
 
 ## GitHub Statistics and My WakaTime Insights ⏳
 
