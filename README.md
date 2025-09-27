@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73DE3&width=700&height=70&lines=Hey%2C+I'm+Arewa+Geek;Software+%26%26+Blockchain+Engr.;I+Buidl+EVM+Contracts+%26+dApps;4%2B+Years+of+Coding+Experience;Open+to+learning+new+stuff" alt="Typing SVG" /></a>
 
-### About me 💯
+### About me
 
 - 🔭 I'm currently working on **what's next**.
 - 🔧 My day (and sometimes night) job is to **Buidl softwares && decentralized applications.**
