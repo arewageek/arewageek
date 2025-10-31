@@ -56,7 +56,7 @@
       </tr>
        <tr>
 	<td>
-                <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&hide_border=true&theme=nightowl" alt="Arewa Geek's wakatime stats" /> 
+                <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&hide_border=true&theme=nightowl&exclude=yaml" alt="Arewa Geek's wakatime stats" /> 
 	</td>
         <td>
                 <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arewageek&hide_border=true&theme=nightowl&v=1" /> 
