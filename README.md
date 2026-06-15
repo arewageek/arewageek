@@ -51,18 +51,18 @@
 	<td>
                 <img align="center" width="100%" src="https://streak-stats.demolab.com?user=arewageek&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Arewa Geek's Github Streaks" />
 	</td>
+		 <td>
+                <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&hide_border=true&theme=nightowl&exclude=yaml" alt="Arewa Geek's wakatime stats" /> 
+	</td>
+      </tr>
+       <!-- <tr>
         <td>
                 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=arewageek&hide_border=true&count_private=true&show_icons=true&hide_title=false&theme=nightowl&rank_icon=github&include_all_commits=true" alt="Arewa Geek's Github Stats" />
 	</td>
-      </tr>
-       <tr>
 	<td>
-                <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&hide_border=true&theme=nightowl&exclude=yaml" alt="Arewa Geek's wakatime stats" /> 
-	</td>
-        <td>
                 <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arewageek&hide_border=true&theme=nightowl&v=1" /> 
 	</td>
-      </tr>
+      </tr> -->
 
   </tbody>
 <table>
