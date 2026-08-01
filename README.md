@@ -1,72 +1,26 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73DE3&width=700&height=70&lines=Hey%2C+I'm+Arewa+Geek;I'm+a+Blockchain+Engr.;I+Buidl+EVM+Contracts+%26+dApps;4%2B+Years+of+Coding+Experience;Open+to+learning+new+stuff" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73DE3&width=700&height=70&lines=Hey%2C+I'm+Arewa+Geek;Software+Engineer;Building+Products+Across+AI+%26+Blockchain" alt="Typing SVG" />
+</a>
 
-### About me
+Software engineer building products across AI, blockchain, and the web.
 
-- 🔭 I'm currently working on **what's next**.
-- 🔧 My day (and sometimes night) job is to **Buidl softwares && decentralized applications.**
-- 🎓 Studied Electrical Electronics Engineering at **The Federal University of Technology, Minna**.
-- ❤️ I'm really passionate about **Blockchain Technologies, Decentraized Applications, and OSS Projects**.
-- 🌱 I'm currently learning not to go insane – broadly speaking.
-- 📫 How to reach me: **[arewageek@gmail.com](mailto:arewageek@gmail.com), [Twitter](https://x.com/arewaofweb3).**
-- 💬 Ask me about anything – maybe I can help you; maybe not.
-- ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
+I enjoy taking ideas from concept to production, designing scalable systems, building thoughtful user experiences, and shipping software people actually use.
 
-### 🎯 Skills
+Portfolio → https://arewageek.xyz
 
-#### ⌨️ Programming languages
-
-![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
-
-#### 🎛 Frameworks
-
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![Hono.js](https://img.shields.io/badge/Hono-E36002.svg?style=for-the-badge&logo=Hono&logoColor=white)
-![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
-
-#### Others
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-
-
-#### Chains
-
-![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)
-![TON](https://img.shields.io/badge/TON-0098EA.svg?style=for-the-badge&logo=TON&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white)
-
-## GitHub Statistics and My WakaTime Insights ⏳
+## Activity
 
 <table>
   <tbody>
-     <tr>
-	<td>
-                <img align="center" width="100%" src="https://streak-stats.demolab.com?user=arewageek&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Arewa Geek's Github Streaks" />
-	</td>
-		 <td>
-                <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&hide_border=true&theme=nightowl&exclude=yaml" alt="Arewa Geek's wakatime stats" /> 
-	</td>
-      </tr>
-       <!-- <tr>
-        <td>
-                <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=arewageek&hide_border=true&count_private=true&show_icons=true&hide_title=false&theme=nightowl&rank_icon=github&include_all_commits=true" alt="Arewa Geek's Github Stats" />
-	</td>
-	<td>
-                <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arewageek&hide_border=true&theme=nightowl&v=1" /> 
-	</td>
-      </tr> -->
-
+    <tr>
+      <td>
+        <img align="center" width="100%" src="https://streak-stats.demolab.com?user=arewageek&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+      </td>
+      <td>
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&hide_border=true&theme=nightowl&exclude=yaml" />
+      </td>
+    </tr>
   </tbody>
-<table>
+</table>
 
-[![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Arewa%20Geek%27s%20activity%20chart&hide_border=true&theme=nightowl)](#)
-
-[![wakatime](https://wakatime.com/badge/user/4af4fa51-e674-4708-836c-ccd8bc04aef2.svg)](https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2?theme=nightowl)
+[![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Contribution%20Graph&hide_border=true&theme=nightowl)](#)
