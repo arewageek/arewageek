@@ -10,17 +10,12 @@ Portfolio → https://arewageek.xyz
 
 ## Activity
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img align="center" width="100%" src="https://streak-stats.demolab.com?user=arewageek&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-      </td>
-      <td>
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@arewageek&hide_border=true&theme=nightowl&exclude=yaml" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="">
+  <img
+    src="https://streak-stats.demolab.com?user=arewageek&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    width="60%"
+    alt="GitHub Streak"
+  />
+</p>
 
 [![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Contribution%20Graph&hide_border=true&theme=nightowl)](#)
