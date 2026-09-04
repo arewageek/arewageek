@@ -18,4 +18,6 @@ Portfolio → https://arewageek.com
   />
 </p>
 
-[![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Contribution%20Graph&hide_border=true&theme=nightowl)](#)
+<!-- [![Arewa Geek](https://github-readme-activity-graph.vercel.app/graph?username=arewageek&custom_title=Contribution%20Graph&hide_border=true&theme=nightowl)](#) -->
+
+[![GitHub activity](https://gitchart.arewa.live/api/chart?username=arewageek&theme=github_dark&range=1m)](https://github.com/arewageek/github-contribution-chart)
