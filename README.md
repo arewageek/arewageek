@@ -7,6 +7,7 @@ Software engineer building products across AI, blockchain, and the web.
 I enjoy taking ideas from concept to production, designing scalable systems, building thoughtful user experiences, and shipping software people actually use.
 
 Portfolio → https://arewageek.com
+Junkyard → https://arewa.live
 
 ## Activity
 
