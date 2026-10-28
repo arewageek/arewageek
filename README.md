@@ -12,6 +12,8 @@ Junkyard → https://arewa.live
 
 ## Activity
 
+[![vibetime](https://vibetime.club/@arewageek/badge.svg)](https://vibetime.club/@arewageek)
+
 <p align="">
   <img
     src="https://streak-stats.demolab.com?user=arewageek&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
